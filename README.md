@@ -6,5 +6,5 @@
   <br>
   <br>
   ## :panda_face: GitHub Stats   
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=88guri&show_icons=true&theme=panda)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=88guri&show_icons=true&theme=panda) 
 </div>
