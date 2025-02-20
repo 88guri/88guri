@@ -6,5 +6,5 @@
   <br>
   <br>
   ## :panda_face: GitHub Stats   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=88guri&include_all_commits=true&theme=panda&hide_border=true&count_private=true)](https://github.com/88guri/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=88guri)](https://github.com/88guri/github-readme-stats)
 </div>
