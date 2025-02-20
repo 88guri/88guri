@@ -26,15 +26,16 @@
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
 
   <h4>Portfolio</h4>
-  <a href="https://sun-wealth-5a1.notion.site/Sihyun-Park-15252c419f6680eb9366c94f27df428f"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <a href="https://welcome88guridesu.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  <a href="https://sun-wealth-5a1.notion.site/Sihyun-Park-15252c419f6680eb9366c94f27df428f"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://welcome88guridesu.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 <br>
 <br>
 <br>
 <br>
 
-  <h3>🐼 GitHub Stats 🐼</h3>  
+ <h3>🐼 GitHub stats 🐼</h3>
+    
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=88guri&show_icons=true&theme=panda) 
 
