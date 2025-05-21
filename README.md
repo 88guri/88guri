@@ -1,8 +1,5 @@
 <div align="start">
 
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F88guri%2Fhit-counter&count_bg=%23FFD5DC&title_bg=%234F3D40&icon=&icon_color=%23E7E7E7&title=hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
-
   <div align="center">
     
   ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd5dc&height=215&section=header&text=88guri's-GitHub&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
