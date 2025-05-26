@@ -42,4 +42,9 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luna0929)](https://solved.ac/luna0929/)
 
+<br>
+
+<h3>🐼 Top Langs 🐼</h3>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88guri&layout=compact&theme=dracula)
 </div>
