@@ -5,6 +5,8 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd5dc&height=215&section=header&text=88guri's-GitHub&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
   
 
+<br>
+
   <h3>🐼 Stack 🐼</h3>
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -42,9 +44,5 @@
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luna0929)](https://solved.ac/luna0929/)
 
-<br>
 
-<h3>🐼 Top Langs 🐼</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=88guri&layout=compact&theme=dracula)
 </div>
