@@ -6,9 +6,8 @@
   
 
 <br>
-<img src="https://github.com/user-attachments/assets/f4dd08cb-8dd2-44ab-bc2d-8ed07270b2bb">
+<!--<img src="https://github.com/user-attachments/assets/f4dd08cb-8dd2-44ab-bc2d-8ed07270b2bb">
 
-<!--
   <h3>🐼 Stack 🐼</h3>
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
