@@ -1,5 +1,5 @@
 <div align="start">
-
+<a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F88guri?color=gray&label=hits&size=small" alt="hits" /></a>
   <div align="center">
     
   ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd5dc&height=215&section=header&text=88guri's-GitHub&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
