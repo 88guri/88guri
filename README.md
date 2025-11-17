@@ -2,13 +2,13 @@
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F88guri?color=gray&label=hits&size=small" alt="hits" /></a>
   <div align="center">
     
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd5dc&height=215&section=header&text=88guri's-GitHub&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd5dc&height=215&section=header&text=🐼88guri's-GitHub&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
   
 
 <br>
-<!--<img src="https://github.com/user-attachments/assets/f4dd08cb-8dd2-44ab-bc2d-8ed07270b2bb">
+<img src="https://github.com/user-attachments/assets/f4dd08cb-8dd2-44ab-bc2d-8ed07270b2bb">
 
-  <h3>🐼 Stack 🐼</h3>
+<!--  <h3>🐼 Stack 🐼</h3>
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
