@@ -30,22 +30,5 @@
   <a href="https://welcome88guridesu.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
 
 <br>
-<br>
-<br>
-<br>
-<br>
- <h3>🐼 GitHub stats 🐼</h3>
-*/
-    
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=88guri&show_icons=true&theme=panda) 
-
-<br>
-
-  <h3>🐼 Baekjoon Stats 🐼</h3>
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=luna0929)](https://solved.ac/luna0929/)
-
-
-</div>
 -->
