@@ -1,4 +1,9 @@
 <div align="start">
+
+<img src="https://github.com/user-attachments/assets/db18b836-d538-4eb2-987b-89f7dbae0521"/>
+<h2>쾁쾁쾁</h2>
+
+<!-- 
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F88guri?color=gray&label=hits&size=small" alt="hits" /></a>
   <div align="center">
     
@@ -6,10 +11,7 @@
   
 
 <br>
-<img src="https://github.com/user-attachments/assets/db18b836-d538-4eb2-987b-89f7dbae0521"/>
-
-
-<!--  <h3>🐼 Stack 🐼</h3>
+<h3>🐼 Stack 🐼</h3>
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
