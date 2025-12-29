@@ -6,7 +6,8 @@
   
 
 <br>
-<img src="https://github.com/user-attachments/assets/f4dd08cb-8dd2-44ab-bc2d-8ed07270b2bb">
+<img src="https://github.com/user-attachments/assets/db18b836-d538-4eb2-987b-89f7dbae0521"/>
+
 
 <!--  <h3>🐼 Stack 🐼</h3>
   <h4>Languages</h4>
