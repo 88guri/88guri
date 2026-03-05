@@ -9,7 +9,7 @@
     
   ![header](https://capsule-render.vercel.app/api?type=waving&color=ffd5dc&height=215&section=header&text=🐼88guri's-GitHub&fontSize=60&fontAlignY=45&fontColor=FFFFFF)
   
-
+<br>
 <br>
 <h3>🐼 Stack 🐼</h3>
   <h4>Languages</h4>
