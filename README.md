@@ -1,9 +1,9 @@
 <div align="start">
-
+<!-- 
 <img src="https://github.com/user-attachments/assets/db18b836-d538-4eb2-987b-89f7dbae0521"/>
 <h2>쾁쾁쾁</h2>
+-->
 
-<!-- 
 <a href="https://myhits.vercel.app"><img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F88guri?color=gray&label=hits&size=small" alt="hits" /></a>
   <div align="center">
     
@@ -34,4 +34,4 @@
 
 <br>
 
--->
+
